@@ -1,0 +1,15 @@
+PODS:
+  - HyphenateFullSDK (3.1.5)
+  - SDAutoLayout (2.1.7)
+
+DEPENDENCIES:
+  - HyphenateFullSDK
+  - SDAutoLayout (~> 2.1.7)
+
+SPEC CHECKSUMS:
+  HyphenateFullSDK: 536f76eeb0914dba766b1d5d30dee083f0805da2
+  SDAutoLayout: e9b36d04b8c0b504762a04d76fbbe5108944297a
+
+PODFILE CHECKSUM: 2a08726e481d64fa544d38c1e6f4b7e1998efa75
+
+COCOAPODS: 1.0.1
